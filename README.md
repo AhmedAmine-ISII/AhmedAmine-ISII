@@ -11,8 +11,8 @@ I'm an IT engineering student pursuing a Master's in Intelligent Information Sys
 TECHNICAL SKILLS: 
 ▸	Networking: TCP/IP, Routing & Switching, VLANs, DHCP, NAT, DNS, Subnetting, Spanning Tree, WAN
 ▸	Operating Systems: Windows Server & Desktop, Linux (Ubuntu-beginner), CLI administration
-▸	Tools & Platforms: Cisco Packet Tracer, VirtualBox,VS Code
-▸	Programming: Python (basics), C (basics), SQL (basics)
+▸	Tools & Platforms: Cisco Packet Tracer, VirtualBox,VS Code,Github
+▸	Programming: Python (basics), C , SQL 
 ▸	AI & Data: Machine Learning fundamentals, Python for data (NumPy, Pandas — in progress)
 ▸	IT Support: Hardware/software troubleshooting, network setup & configuration, helpdesk
 
