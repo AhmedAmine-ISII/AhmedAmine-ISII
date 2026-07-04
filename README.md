@@ -12,7 +12,7 @@ TECHNICAL SKILLS:
 ▸	Networking: TCP/IP, Routing & Switching, VLANs, DHCP, NAT, DNS, Subnetting, Spanning Tree, WAN
 ▸	Operating Systems: Windows Server & Desktop, Linux (Ubuntu-beginner), CLI administration
 ▸	Tools & Platforms: Cisco Packet Tracer, VirtualBox,VS Code
-▸	Programming: Python (basics), C(basics), SQL(basics)
+▸	Programming: Python (basics), C (basics), SQL (basics)
 ▸	AI & Data: Machine Learning fundamentals, Python for data (NumPy, Pandas — in progress)
 ▸	IT Support: Hardware/software troubleshooting, network setup & configuration, helpdesk
 
